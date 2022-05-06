@@ -15,8 +15,4 @@ class Character {
     );
   }
 
-  @override
-  String toString() {
-    return "id: ${id}, name : ${name},  img: ${imgUrl}";
-  }
 }
